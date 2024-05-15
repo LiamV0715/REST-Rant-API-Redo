@@ -1,61 +1,69 @@
 body {
     background-color: lightblue;
     text-align: center;
-}
+    margin-top: 20px;
+  }
+  
+  main {
+    margin-right: 30px;
+    margin-left: 30px;
+    margin-top: 10px;
+    background-color: white;
+    border-radius: 25px;
+  }
 
-h1 {
+  h1 {
     text-align: center;
     color: cornflowerblue;
-}
-
-h2 {
-    color: lightblue;
-}
-
-main {
-    margin-right: 20px;
-    margin-left: 20px;
-    padding: 20px;
-    background-color: white;
-}
-
-nav {
+    text-shadow: 2px 5px 2px rgb(161, 161, 161);
+    text-decoration: none;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+  }
+  
+  #fries {
+    max-width: 50%;
+    max-height: 50%;
+    position: relative;
+    margin-left: 25%;
+    margin-right: 25%;
+  }
+  
+  nav {
     background-color: cornflowerblue;
     padding: 10px;
-}
-
-nav ul {
+  }
+  
+  nav ul {
     list-style-type: none;
     margin: 0;
-}
-
-nav li {
+  }
+  
+  nav li {
     display: inline;
     margin-right: 25px;
-}
-
-nav a {
+  }
+  
+  nav a {
     color: white;
     font-size: 1.5em;
-}
-
-nav a:hover {
-    color: lightblue;
+  }
+  
+  nav a:hover {
+    color: pink;
     text-decoration: none;
-}
+  }
+  
+  img {
+    max-width: 300px;
+    border-radius: 25px;
+  }
+  
+  #views {
+    margin-left: auto;
+    margin-right: auto;
+  }
 
-form {
-    display: inline;
-}
-
-.inactive {
-    color: gray;
-}
-
-.border {
-    border: 1px solid gray;
-}
-
-img {
-    height: 20em;
-}
+  button {
+    margin-bottom: 25px;
+  }
