@@ -1,5 +1,5 @@
 {
-  "name": "project-REST-rant",
+  "name": "REST-Rant-API-Project",
   "version": "1.0.0",
   "engines": {
     "node": "16.11.1"
@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HackerUSA-CE/project-REST-rant.git"
+    "url": "git+https://github.com/LiamV0715/REST-Rant-API-Project.git"
   },
   "keywords": [],
   "author": "",
   "license": "",
   "bugs": {
-    "url": "https://github.com/HackerUSA-CE/project-REST-rant/issues"
+    "url": "https://github.com/LiamV0715/REST-Rant-API-Project/issues"
   },
-  "homepage": "https://github.com/HackerUSA-CE/project-REST-rant#readme",
+  "homepage": "https://github.com/LiamV0715/REST-Rant-API-Project#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
