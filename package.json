@@ -1,5 +1,5 @@
 {
-  "name": "REST-Rant-API-Project",
+  "name": "REST-Rant-API",
   "version": "1.0.0",
   "engines": {
     "node": "16.11.1"
@@ -10,17 +10,12 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/LiamV0715/REST-Rant-API-Project.git"
-  },
+ 
   "keywords": [],
   "author": "",
   "license": "",
-  "bugs": {
-    "url": "https://github.com/LiamV0715/REST-Rant-API-Project/issues"
-  },
-  "homepage": "https://github.com/LiamV0715/REST-Rant-API-Project#readme",
+  
+  
   "dependencies": {
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
